@@ -11,3 +11,5 @@ def first_line():
     first_line = input().title() # меняем регистр с нижнего на верхний у первой буквы
 
     return first_line
+
+print('Добавили что то новое!!')
