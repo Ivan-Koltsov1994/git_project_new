@@ -1,6 +1,6 @@
 def line():
     """Функция принимает нп  вход строку и возвращает её, со всеми заглавными буквами"""
 
-    header_line = input().upper()
+    header_line = input().upper() # меняем регистр с нижнего на верхний
 
     return header_line
